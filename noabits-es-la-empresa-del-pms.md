@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   pinned: false
   originSessionId: 0bd6d3bb-2517-4407-a567-7eac914837e9
-  modified: 2026-09-23T19:44:16.457Z
+  modified: 2026-09-23T20:11:18.819Z
 ---
 
 # El comercio se llama ProaPMS (ya no Noabits)
@@ -23,9 +23,12 @@ Cómo aplicarlo:
   o da soporte, es un nombre viejo que hay que cambiar por ProaPMS.
 - Historia del nombre del sistema: se llamó Aloyra a comienzos de septiembre
   de 2026 y el 14 de septiembre pasó a PROA (logo: una «P» azul con la curva
-  naranja y una flecha blanca, seguida de «ROA» en azul). Quedaron con el
-  nombre viejo solo cosas internas: el dominio `@aloyra.local` de las cuentas
-  de plataforma y la dirección aloyra.vercel.app.
+  naranja y una flecha blanca, seguida de «ROA» en azul). El usuario pidió
+  que **ya no aparezca ningún nombre viejo, ni por dentro**: en septiembre de
+  2026 la cuenta de plataforma pasó de `dreiner@aloyra.local` a
+  `dreiner@proapms.local` (el panel entra con el usuario `dreiner`) y la app
+  autenticadora del celular muestra «ProaPMS». Si queda algo con «Aloyra» o
+  «Noabits», es para cambiarlo.
 
 Lo que define de entrada: el público son dueños y administradores de
 hoteles, termales, cabañas, fincas y hostales pequeños y medianos de Colombia
